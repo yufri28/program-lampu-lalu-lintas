@@ -306,7 +306,6 @@ namespace Lampu_lalu_lintas
             pB_kuningB.BackColor = Color.White;
             pB_hijauB.BackColor = Color.White;
         }
-
-      
+        //Coding by Yufridon Luttu
     }
 }
