@@ -1,0 +1,10 @@
+D:\Project\Visual Studio Project\Sistem Operasi C\Lampu_lalu_lintas\Lampu_lalu_lintas\bin\Debug\Lampu_lalu_lintas.exe.config
+D:\Project\Visual Studio Project\Sistem Operasi C\Lampu_lalu_lintas\Lampu_lalu_lintas\bin\Debug\Lampu_lalu_lintas.exe
+D:\Project\Visual Studio Project\Sistem Operasi C\Lampu_lalu_lintas\Lampu_lalu_lintas\bin\Debug\Lampu_lalu_lintas.pdb
+D:\Project\Visual Studio Project\Sistem Operasi C\Lampu_lalu_lintas\Lampu_lalu_lintas\obj\Debug\Lampu_lalu_lintas.csprojAssemblyReference.cache
+D:\Project\Visual Studio Project\Sistem Operasi C\Lampu_lalu_lintas\Lampu_lalu_lintas\obj\Debug\Lampu_lalu_lintas.Form1.resources
+D:\Project\Visual Studio Project\Sistem Operasi C\Lampu_lalu_lintas\Lampu_lalu_lintas\obj\Debug\Lampu_lalu_lintas.Properties.Resources.resources
+D:\Project\Visual Studio Project\Sistem Operasi C\Lampu_lalu_lintas\Lampu_lalu_lintas\obj\Debug\Lampu_lalu_lintas.csproj.GenerateResource.cache
+D:\Project\Visual Studio Project\Sistem Operasi C\Lampu_lalu_lintas\Lampu_lalu_lintas\obj\Debug\Lampu_lalu_lintas.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio Project\Sistem Operasi C\Lampu_lalu_lintas\Lampu_lalu_lintas\obj\Debug\Lampu_lalu_lintas.exe
+D:\Project\Visual Studio Project\Sistem Operasi C\Lampu_lalu_lintas\Lampu_lalu_lintas\obj\Debug\Lampu_lalu_lintas.pdb
